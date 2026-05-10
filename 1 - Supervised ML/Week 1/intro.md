@@ -1,5 +1,10 @@
 <details>
   <summary>What is Machine Learning?</summary>
+  <quote>
+      Field of study that give computer the ability to learn without being explicitly programmed.
+  </quote>
+  <br>
+  ML is a branch of Artificial Intelligence focused on building systems that learn from data and improve automatically through experience. 
 
 </details>
 
