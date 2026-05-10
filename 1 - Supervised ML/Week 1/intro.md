@@ -61,3 +61,6 @@ The model learns the relationship between inputs and outputs and uses that knowl
 ## Types
 - Classification
 - Regression
+
+
+<h1>Unsupervised Learning</h1>
